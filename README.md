@@ -26,7 +26,7 @@ run: npm run dev
 
 ## Contact
  . Email: gaurav8191saini@gmail.com
- . LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gaurav-saini-248aaa223/)https://www.linkedin.com/in/gaurav-saini-248aaa223/
+ . LinkedIn: https://www.linkedin.com/in/gaurav-saini-248aaa223/
  
 
 
